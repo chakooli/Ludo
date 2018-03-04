@@ -20,7 +20,7 @@ An artificially intelligent, single-player classic ludo game.
    - Token 4, user : Press 4
    - Computer player : Press 5
    
-![alt text](screenshots/movedtokens2.png "Description goes here")
+![alt text](screenshots/movedtokens.png "Description goes here")
 
 ## Installation 
 ### Running setup (for Windows only)

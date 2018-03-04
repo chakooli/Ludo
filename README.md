@@ -24,7 +24,8 @@ An artificially intelligent, single-player classic ludo game.
 
 ## Installation 
 ### Running setup (for Windows only)
-Download setup.zip, unzip it and run setup.exe.
+- Download setup.zip, unzip it and run setup.exe.
+- Launch Ludo application by clicking on the shortcut icon and get ready to loose by our intelligent players!
 
 ### Executing the code
 1. Requirements for executing the code:

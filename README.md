@@ -22,7 +22,11 @@ An artificially intelligent, single-player classic ludo game.
    
 ![alt text](screenshots/movedtokens2.png "Description goes here")
 
-## Installation
+## Installation 
+### Running setup (for Windows only)
+Download setup.zip, unzip it and run setup.exe.
+
+### Executing the code
 1. Requirements for executing the code:
    - Dev C++ IDE
    - glutMINGW32 folder (http://chortle.ccsu.edu/bloodshed/howtogl.html)
@@ -32,7 +36,7 @@ An artificially intelligent, single-player classic ludo game.
    - libopengl32
    - libglu32
    - libglut32
-5. Add a blank file to the project and copy the code in LudoCode.cpp
+5. Import the LudoCode.cpp file into your project and run it.
 6. Run it.
 
 

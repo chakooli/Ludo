@@ -3,8 +3,6 @@ An artificially intelligent, single-player classic ludo game.
 
 ![alt text](screenshots/overview.png "Description goes here")
 
-
-
 ## Features and Rules
 - The game is played by only one user at a time against three computer players.
 - The user starts the game by making the first move.
